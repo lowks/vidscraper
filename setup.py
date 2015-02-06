@@ -6,6 +6,7 @@ setup(
     version='1.0.2',
     maintainer='Participatory Culture Foundation',
     maintainer_email='dev@mirocommunity.org',
+    description='Vidscraper is a python library which provides a simple API for fetching video data from various web services and sites',
     url='https://github.com/pculture/vidscraper',
     license='BSD',
     packages=find_packages(),
